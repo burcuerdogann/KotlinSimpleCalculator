@@ -1,4 +1,4 @@
-# SimpleCalculatorKotlin
+# KotlinSimpleCalculator
 
 Android Development / Kotlin Tutorial - Lesson 4
 
